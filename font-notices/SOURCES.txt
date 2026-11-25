@@ -1,0 +1,4 @@
+Censura native report font notices
+Liberation Serif 2.1.5 and Liberation Sans 2.1.5: unmodified TTF binaries from Debian fonts-liberation2 2.1.5-1. Upstream https://github.com/liberationfonts/liberation-fonts. See Liberation-LICENSE.txt.
+Noto Serif CJK TC Regular: unmodified OpenType font from https://github.com/notofonts/noto-cjk/tree/main/Serif/OTF/TraditionalChinese. See Noto-LICENSE.txt.
+Native interface fonts: Inter and JetBrains Mono, distributed under the SIL Open Font License. See Inter-LICENSE.txt and JetBrainsMono-LICENSE.txt.
